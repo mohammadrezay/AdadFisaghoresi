@@ -1,4 +1,4 @@
-# AdadFisaghoresi
+# AdadFisaghoresi.php
 https://quera.org/problemset/280?tab=description
 <?php
 $a = (int)readline("enter a number: ");
